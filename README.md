@@ -30,5 +30,7 @@ https://www.kaggle.com/datasets/asdasdasasdas/garbage-classification
     * The G-model downloads pretrained parameters (weights, bias) directly.
     * Connect with the anvil to create a interactive interface to display the performance of my G-model.
     * Show Histogram pictures and Confusion Matrix.
-      
+
+## Display
+ Users can access the link to predict related types of garbage trash.
  
