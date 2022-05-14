@@ -33,4 +33,4 @@ https://www.kaggle.com/datasets/asdasdasasdas/garbage-classification
 
 ## Display
  Users can access the link to predict related types of garbage trash.
- 
+ https://zhuhangli.anvil.app/
